@@ -1,0 +1,4 @@
+o | 987654 |9876
+Transferência de 123456: +4,00 Euros
+Transferência de 123456: +200,00 Euros
+Transferência de 123456: +500,00 Euros

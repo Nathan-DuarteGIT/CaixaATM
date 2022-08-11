@@ -1,0 +1,11 @@
+p | 123456 |1234
+
+Depósito: +80,00
+Levantamento: -20,00 Euros
+Transferência para 987654: -4,00 Euros
+Depósito: +80,00 Euros
+Transferência para 987654: -200,00 Euros
+Depósito: +800,00 Euros
+Levantamento: -200 Euros
+Transferência para 987654: -500,00 Euros
+Transferência de 147852: +90,00 Euros

@@ -1,0 +1,4 @@
+Alicia | 147852 |1234
+Depósito: +80,00 Euros
+Levantamento: -200 Euros
+Transferência para 123456: -90,00 Euros
