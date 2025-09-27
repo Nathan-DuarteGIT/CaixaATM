@@ -11,10 +11,10 @@ Compilador: CodeBlocks
 
 ## Como Instalar/Executar 🚀
 
-###Pré-requisitos
+### Pré-requisitos
 Ter um compilador C (ex: GCC) instalado.
 
-###Passos
+### Passos
 
 1.git clone 
 
