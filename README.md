@@ -16,7 +16,7 @@ Ter um compilador C (ex: GCC) instalado.
 
 ### Passos
 
-1.git clone 
+1. git clone https://github.com/Nathan-DuarteGIT/CaixaATM.git
 
 2. gcc caixa_atm.c -o caixa_atm
 
